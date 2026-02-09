@@ -105,6 +105,3 @@ Continue optimizing onboarding to balance education and motivation, especially f
 * Matplotlib for visualization
 * Jupyter Notebook
 
-
-
-Data Analysis Project — A/B Testing & Product Analytics
